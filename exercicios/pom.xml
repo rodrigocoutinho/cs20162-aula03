@@ -19,7 +19,7 @@
     <packaging>jar</packaging>
     <version>1.0.0</version>
 
-    <name>com.github.rodrigocoutinho:cs20162-aula03</name>
+    <name>aula03</name>
 
     <description>
         Projeto de referência (exemplo) inicial de desenvolvimento em Java com uso de JUnit.
